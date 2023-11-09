@@ -16,18 +16,17 @@ Puede consultar la parte inferior de este archivo si aún no ha realizado la con
 2. ¿Cómo se ve "git log"?
 3. Crea un archivo
 4. ¿Cómo se ve ahora el resultado de "git status"?
-5. `agregar` el archivo al área de preparación
+5. `add` el archivo al área de preparación
 6. ¿Cómo se ve ahora el "estado de git"?
-7. `confirmar` el archivo en el repositorio
+7. `commit` el archivo en el repositorio
 8. ¿Cómo se ve ahora "git status"?
 9. Cambie el contenido del archivo que creó anteriormente.
 10. ¿Cómo se ve ahora el "estado de git"?
-11. `agregar` el cambio de archivo
+11. `add` el cambio de archivo
 12. ¿Cómo se ve ahora el "estado de git"?
 13. Cambia el archivo nuevamente.
-14. Haz un "compromiso"
+14. Haz un "commit"
 15. ¿Cómo es el "estado" ahora? ¿El "registro"?
-16. Agregue y confirme el cambio más reciente.
 
 
 
