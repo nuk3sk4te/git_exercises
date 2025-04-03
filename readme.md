@@ -31,11 +31,11 @@ Una colección de comandos útiles para usar en todos los ejercicios y en el dí
 git init            # Inicializa una vacio repositorio en el actual directorio.
 
 # Clonar repositorio
-git clone https://github.com/praqma-training/git-katas.git      # Clone el repositorio url y crea un directorio con el repo del repositorio
+git clone git@github.com:nuk3sk4te/git_exercises.git     # Clone el repositorio url y crea un directorio con el repo del repositorio
 
 # Git (usuario and repositorio nivel) configuraciones
-git config --local user.name "Repo-level Username"          # For setting a local git repo level user name.
-git config --local user.email "Repo-level.Email@Example.com" # For setting a local git repo level user email.
+git config --local user.name "Username"          # For setting a local git repo level user name.
+git config --local user.email "Email@Example.com" # For setting a local git repo level user email.
                                                             # --global -> User level git config stored in <user-home>/.gitconfig for e.g. ~/.gitconfig
                                                             # --local -> repo level config stored in repo's main dir under .git/config
 
